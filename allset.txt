@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I Edward Paup-Lefferts, hereby declare that I am all set to write c++ code for linux (or mac-unix) and push the code to GitHub from my command line.
+=======
+I Edward Paup-Lefferts, hereby declare that I am all set to write c++ code for linux (or mac-unix) and push the code to GitHub from my command line. 
+>>>>>>> 99b26a42559282013a2160b19574511c637c666a
